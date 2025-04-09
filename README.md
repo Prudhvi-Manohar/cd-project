@@ -153,7 +153,7 @@ This project is licensed under the GNU General Public License - see the [LICENSE
 
 ## Contact
 
-For any questions or suggestions, please contact [aanubothu@gmail.com](mailto:aanubothu@gmail.com).
+For any questions or suggestions, please contact [2200080089@kluniversity.in](mailto:2200080089@kluniversity.in).
 
 ## Acknowledgments
 
